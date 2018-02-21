@@ -1,0 +1,12 @@
+realporhora =  4.34
+
+horapordia = 6
+
+diaporsemana = 5
+
+semanapormes = 4
+
+salario = ((realporhora * horapordia) * diaporsemana * semanapormes)
+
+print (salario)
+
