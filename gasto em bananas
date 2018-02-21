@@ -1,0 +1,5 @@
+quilobanana = 3
+quilosporsemana = 5
+semanaspormes = 4
+gastobanana = ((quilobanana * quilosporsemana) * semanaspormes)
+print ("Eu gasto", gastobanana, "reais em bananas todos os meses.")
