@@ -1,0 +1,6 @@
+realporhora =  8.50
+horapordia = 6
+diaporsemana = 5
+semanapormes = 4
+salario = ((realporhora * horapordia) * diaporsemana * semanapormes)
+print ("Eu gostaria de ganhar", salario, "por mês")
